@@ -1,6 +1,6 @@
 うさうさ画伯の研修資料ジェネレーター
 
-▼アーティファクト
-https://claude.ai/public/artifacts/494a20a5-fb74-41f6-abda-83459f1add4e
+▼アーティファクト_2026/06/23_1232_デザイン特化行数指定編PRO
+https://claude.ai/public/artifacts/290e19dd-601b-4863-bfbf-4fe495addde3
 
 新テスト手法あり2026/06/23
